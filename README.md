@@ -1,4 +1,4 @@
-# HR One Attendance Bot
+# Attendance Bot
 
 A production-grade, highly modular, automated bot written in TypeScript and Node.js using Playwright. It automatically marks attendance on the HR One employee portal every weekday at 10:00 AM IST using GitHub Actions.
 
